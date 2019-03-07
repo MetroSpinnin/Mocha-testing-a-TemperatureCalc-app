@@ -1,0 +1,23 @@
+{
+  "name": "temperature",
+  "version": "1.0.0",
+  "description": "A mocha testing temperature app",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Mocha-testing-a-TemperatureCalc-app"
+  },
+  "keywords": [
+    "metro",
+    "temperature",
+    "app"
+  ],
+  "author": "Metrospinnin",
+  "license": "MIT"
+}
